@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "gtg-deploy-tomcat:toggle"
   },
-  "repository": "https://github.com/GoboTheGeek/atom/gtg-deploy-tomcat",
+  "repository": "https://github.com/GoboTheGeek/atom-gtg-deploy-tomcat",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
